@@ -1,0 +1,9 @@
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\bin\Debug\GamePrac.exe.config
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\bin\Debug\GamePrac.exe
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\bin\Debug\GamePrac.pdb
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.csprojResolveAssemblyReference.cache
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.Form1.resources
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.Properties.Resources.resources
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.csproj.GenerateResource.Cache
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.exe
+c:\users\108922\documents\visual studio 2015\Projects\GamePrac\GamePrac\obj\Debug\GamePrac.pdb
